@@ -1,4 +1,4 @@
-# Text-Based-RPG-Game
+# Classic Frogger Game
 
 I made this project a practice and inception for my final video game project using C++ and in-class game engine.<br><br>
 
